@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+current version - 1.3.0
+=======
+current version - gold:1.2.0
+>>>>>>> 6cd8b4db412f4e8561a742df73af679c96353e8d
+
+alpha 1.0.0
+    - does not support ssd/harddrive backup
+    - supports python library :)
+
+beta 1.1.0
+    - added support for deleting
+
+gold 1.2.0
+<<<<<<< HEAD
+    - search ability
+
+1.3.0
+    - export csv for library (not for terminal)
+=======
+    - added support for searching
+    - gold release
+>>>>>>> 6cd8b4db412f4e8561a742df73af679c96353e8d
